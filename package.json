@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@silchenkoofficial/test-ds": "^0.2.0",
     "mobx": "^6.13.1",
     "mobx-react-lite": "^4.0.7",
     "mobx-state-tree": "^6.0.1",
